@@ -1,4 +1,4 @@
-# Group YYY - {Short snappy Title of your project}
+# Group 38 - {Air Quality USA}
 
 **Please remember to update this section**
 
@@ -24,7 +24,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 **Please remember to update this section**
 
-- Person 1: one sentence about you!
+- Jayden Jayawardhena : CS student. I like music and games.
 - Person 2: one sentence about you!
 - Person 3: one sentence about you!
 
