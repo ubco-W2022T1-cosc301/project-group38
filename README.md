@@ -12,7 +12,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 **Please remember to update this section**
 
-{Add your stuff here}
+Our topic is air quality over time. We’re interested in this topic because air quality is very variable with time, but it will be very interesting to compare air quality changes on a short-term scale versus a long-term scale. On a short-term scale it could be used to estimate a best time of day to do physical activity for someone with asthma or for an elderly person to plan what time of day is best to travel to the store. On a long-term scale it could be interesting to compare the change in air quality in Italy versus somewhere like Canada with relatively low air pollution versus somewhere like Hong Kong. This comparison could be used as a first step in comparing reasons for respiratory health and life-expectancy of the people who live there. Another interesting question would be if we found any outliers in the dataset that we could correlate to a particular event that would affect air quality.
 
 ## Describe your dataset in about 150-200 words
 
@@ -24,7 +24,7 @@ The **US Envoironmental Protection Agency** collected data across the United Sta
 
 - Jayden Jayawardhena : CS student. I like music and games.
 - Person 2: one sentence about you!
-- Person 3: one sentence about you!
+- Andrew Dunn : I coach/play volleyball, play video games, and climb on plastic holds.
 
 ## Images
 
