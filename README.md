@@ -22,7 +22,7 @@ The Italian National Agency for New Technologies, Energy and Sustainable Economi
 **Please remember to update this section**
 
 - Jayden Jayawardhena : CS student. I like music and games.
-- Person 2: one sentence about you!
+- Abhiek Bist:4th-year CS student & a big soccer fan!
 - Andrew Dunn : I coach/play volleyball, play video games, and climb on plastic holds.
 
 ## Images
