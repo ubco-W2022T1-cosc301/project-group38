@@ -5,7 +5,7 @@
 In this analysis, we will try to answer the questions we have had regarding our data by manipulating the data 
 to be represented by various parameters and graphs.
 
-## Question: Which metal oxides are present at various temperatures and humidities?
+## Question (Jayden): Which metal oxides are present at various temperatures and humidities?
 
 Observations:
 - mean Temperature to be 17.965&deg;C
@@ -47,3 +47,20 @@ The Relative Humidity plots show us that Tin Oxide and Tungsten Oxide nominally 
  ### Conclusion
  
  There doesn't appear to be any cause for alarm regarding the increase in Titanium Oxide detections as there is no significant change from 2004 to 2005. Titanium Dioxide is detected mostly from 8:00 - 9:00 and 17:00 - 19:00.
+
+## Question 2 (Abhiek): Which elements are highly correlated to temperature?
+
+Observations:
+Only three elements are highly correlated to Temperature.
+Relative and absolute Humidity is also a good predictor of Temperature.
+
+![HeatMap](images/ab1.png)
+![Correlation](images/ab2.png)
+![BarPlot](images/ab3.png)
+![Lmplot Benzene](images/ab4.png)
+![Lmplot Tin Oxide](images/ab5.png)
+![Lmplot Tungsten Oxide](images/ab6.png)
+
+
+ ### Conclusion
+ The top 3 air pollutants from our dataset that are correlated to temperature are Benzene, Tungsten oxide and Tin oxide
