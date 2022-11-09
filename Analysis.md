@@ -8,7 +8,7 @@ to be represented by various parameters and graphs.
 ## Question (Jayden): Which metal oxides are present at various temperatures and humidities?
 
 Observations:
-- mean Temperature to be 17.965&deg;C
+- mean Temperature 17.965&deg;C
 - mean Relative Humidity 48.775%
 - mean Absolute Humidity 0.995 gm<sup>-3</sup>
 
