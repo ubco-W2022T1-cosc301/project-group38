@@ -34,3 +34,16 @@ The Relative Humidity plots show us that Tin Oxide and Tungsten Oxide nominally 
  Tungsten Oxide when nominally targeted for NO2 is found higher than when targeted for Nitrous Oxides.  
  
  The Absolute Humidity plots show an increase in Tungsten Oxide detections as Absolute Humidity increases.
+ 
+ ## Question: Is there an Increase in Titanium Dioxide detections?
+ 
+ Titanium Dioxide is dangerous to Inhale.  
+ Observations:
+ 
+ ![Tit. Diox. Daily](images/TitaniumDioxideDetectionsDaily.png)
+ 
+ ![Tit. Diox. Change](images/TitaniumDioxideChange.png)
+ 
+ ### Conclusion
+ 
+ There doesn't appear to be any cause for alarm regarding the increase in Titanium Oxide detections as there is no significant change from 2004 to 2005. Titanium Dioxide is detected mostly from 8:00 - 9:00 and 17:00 - 19:00.
