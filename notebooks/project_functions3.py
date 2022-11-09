@@ -15,6 +15,6 @@ def createNonMetaldf(df) :
 
 def getMeans(df) :
     m = [3]
-    m[0] = dNonMetal['C6H6(GT)'].mean()
-    m[1] = dNonMetal['NO2(GT)'].mean()
-    m[2] = dNonMetal['CO(GT)'].mean()
+    m[0] = df['C6H6(GT)'].mean()
+    m[1] = df['NO2(GT)'].mean()
+    m[2] = df['CO(GT)'].mean()
