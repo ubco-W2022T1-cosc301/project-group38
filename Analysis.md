@@ -2,8 +2,7 @@
 
 ## Preface
 
-In this analysis, we will try to answer the questions we have had regarding our data by manipulating the data 
-to be represented by various parameters and graphs.
+In this analysis, we will try to answer the questions we have had regarding our data by manipulating the data to be represented by various parameters and graphs.
 
 ## Question (Jayden): Which metal oxides are present at various temperatures and humidities?
 
