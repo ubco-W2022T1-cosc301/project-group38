@@ -11,13 +11,15 @@ def load_and_clean(path):
     r=list(np.arange(len(col)))
 
     AirQuality=pd.read_csv(path,sep=";",header=None,skiprows=1,names=col,na_filter=True,
-                   na_values=-100,usecols=r)
+                   na_values="na",usecols=r)
     
-    AirQuality.dropna(how='all',inplace=True)
+    AirQuality.dropna(how='any',inplace=True)
+    
+    AirQuality =  AirQuality[( AirQuality != -200).all(1)]
 
     return AirQuality
 
-def fix_time(AirQuality: pd.DataFrame):
+def fix_Time(AirQuality: pd.DataFrame):
     AirQuality['DATE']=pd.to_datetime(AirQuality.DATE, format='%d/%m/%Y')
     AirQuality['MONTH']= AirQuality['DATE'].dt.month  
     AirQuality['HOUR']=AirQuality['TIME'].apply(lambda x: int(x.split('.')[0]))
