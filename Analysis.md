@@ -64,7 +64,7 @@ Relative and absolute Humidity is also a good predictor of Temperature.
  ### Conclusion
  The top 3 air pollutants from our dataset that are correlated to temperature are Benzene, Tungsten oxide and Tin oxide
  
- ## Question 3: Is there a high enough concentration of non-metal pollutents to be dangerous.
+ ## Question 3 (Andrew): Is there a high enough concentration of non-metal pollutents to be dangerous.
  
  
  ![nonMetalplot](images/nonMetalPlot.png)
@@ -74,9 +74,9 @@ Relative and absolute Humidity is also a good predictor of Temperature.
  
  A concentration of Benzene that qualifies as immediately dangerous to health, according to the CDC, is 1597.34 mg/m^3.
 
-A concentration of NO2 that qualifies as immediately dangerous is 56.45mg/m^3.
+A concentration of NO2 that is expected to have 50% mortality rate is 327.4mg/m^3. However, it is listed that 37.63 mg/m^3 is expected to be mildly irritating.
 
 A concentration of C0 that qualifies as the same is 20mg/m^3.
  
  ### Conclusion
- There is not enough of any of these pollutants to be considered dangerous.
+ There is not enough of any of these pollutants in the air to be considered dangerous.
