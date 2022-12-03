@@ -64,14 +64,9 @@ We can see that there is a weak and negative correlation between PTO8_S3 and T
 ![PTO8_S2 vs T](images/ab3.png)
 We can see that there is a weak and positive correlation between PTO8_S3 and T
 
-Conclusion:
+### Conclusion:
 We can not predict temperature by using metal oxides as no metal oxides show a strong correlation with Temperature (C). However, since Relative Humidity (%) is strongly and inversely related to Temperature. Relative Humidity can be a good predictor of temperature.
 
- ### Conclusion
-
-
- ### Conclusion
- The top 3 air pollutants from our dataset that are correlated to temperature are Benzene, Tungsten oxide and Tin oxide
  
  ## Question 3 (Andrew): Is there a high enough concentration of non-metal pollutents to be dangerous to humans.
  
