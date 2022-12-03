@@ -17,7 +17,7 @@ def load_and_process(path) :
 def createNonMetaldf(df) :
     benzConst = 1597
     noConst = 327
-    coConst = 20
+    coConst = 40
     df1 = (
         pd.DataFrame(df[['CO(GT)', 'C6H6(GT)', 'NO2(GT)']])
         .div({'CO(GT)':(coConst), 'C6H6(GT)':(benzConst), 'NO2(GT)':(noConst)})
