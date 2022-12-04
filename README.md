@@ -26,11 +26,7 @@ The Italian National Agency for New Technologies, Energy and Sustainable Economi
 
 ## Images
 
-**Please remember to update this section and remove the test image!**
-
-{You can use this area for any images you want to include}
-
-<img src ="images/test.png" width="100px">
+<img src ="https://breathepa.org/wp-content/uploads/2015/07/air-quality-alert-4x3-1-1080x675.jpg" width="200px">
 
 ## References
 
