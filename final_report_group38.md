@@ -50,19 +50,23 @@ The Relative Humidity plots show us that Tin Oxide and Tungsten Oxide nominally 
 ## Question 2 (Abhiek): Which elements are highly correlated to temperature?
 
 Observations:
-Only three elements are highly correlated to Temperature.
-Relative and absolute Humidity is also a good predictor of Temperature.
+Most metal oxides are weakly correlated to temperature .
 
-![HeatMap](images/ab1.png)
-![Correlation](images/ab2.png)
-![BarPlot](images/ab3.png)
-![Lmplot Benzene](images/ab4.png)
-![Lmplot Tin Oxide](images/ab5.png)
-![Lmplot Tungsten Oxide](images/ab6.png)
+![HeatMap](images/ab.png)
+This heat map allows us to easily see what variables strongly relate to Temperature
 
+![Correlation](images/ab1.png)
+We can see that there is a strong and negative correlation between RH and T
 
- ### Conclusion
- The top 3 air pollutants from our dataset that are correlated to temperature are Benzene, Tungsten oxide and Tin oxide
+![PTO8_S3 vs T](images/ab2.png)
+We can see that there is a weak and negative correlation between PTO8_S3 and T
+
+![PTO8_S2 vs T](images/ab3.png)
+We can see that there is a weak and positive correlation between PTO8_S3 and T
+
+### Conclusion:
+We can not predict temperature by using metal oxides as no metal oxides show a strong correlation with Temperature (C). However, since Relative Humidity (%) is strongly and inversely related to Temperature. Relative Humidity can be a good predictor of temperature.
+
  
  ## Question 3 (Andrew): Is there a high enough concentration of non-metal pollutents to be dangerous to humans.
  
