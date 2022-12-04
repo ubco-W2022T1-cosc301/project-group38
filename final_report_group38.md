@@ -57,9 +57,17 @@ In order to effectively make the density plots for all the metal oxides in an ef
 
 ## Question 2 (Abhiek): Which elements are highly correlated to temperature?
 
+Link to EDA: 
+[You can find the full analysis notebook here, including the code and the data here](https://github.com/ubco-W2022T1-cosc301/project-group38/blob/main/notebooks/analysis2(abhiek).ipynb)
+
+
 Observations:
+<<<<<<< HEAD
 Only three elements are highly correlated to Temperature.
 Relative and absolute Humidity is also a good predictor of Temperature.
+=======
+There is no correlation between the amount of metal oxides detected and temperature.
+>>>>>>> e9d0217c3142884a7023112b3f40a7a4f80af0c9
 
 ![HeatMap](images/ab1.png)
 ![Correlation](images/ab2.png)
