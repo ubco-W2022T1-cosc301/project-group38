@@ -47,26 +47,30 @@ The Relative Humidity plots show us that Tin Oxide and Tungsten Oxide nominally 
  
  There doesn't appear to be any cause for alarm regarding the increase in Titanium Oxide detections as there is no significant change from 2004 to 2005. Titanium Dioxide is detected mostly from 8:00 - 9:00 and 17:00 - 19:00.
 
+## Summary
+
+In summary, certain metal oxides are correlated to temperture, relative humidity, and absolute humidity. Metal oxides as a whole, do not have a correlation with temperature, relative humidity, or absolute humidity. Most metal oxides are detected below the average temperature of 17.965 degrees celcius. Tungsten Oxide and Tin Oxide  were the only metal oxides found to be below the average relative humidity of 48.775%. Tungsten Oxide detections also have a correlation with absolute humidity.
+
+### EDA Highlights
+
+In order to effectively make the density plots for all the metal oxides in an efficient manor, a variation of the dataset had to be made using pandas to manipulate the data to turn certain column names into a column value. Then seaborn was able to efficiently plot the density graphs as a grid of plots.
+
 ## Question 2 (Abhiek): Which elements are highly correlated to temperature?
 
 Observations:
-Most metal oxides are weakly correlated to temperature .
+Only three elements are highly correlated to Temperature.
+Relative and absolute Humidity is also a good predictor of Temperature.
 
-![HeatMap](images/ab.png)
-This heat map allows us to easily see what variables strongly relate to Temperature
+![HeatMap](images/ab1.png)
+![Correlation](images/ab2.png)
+![BarPlot](images/ab3.png)
+![Lmplot Benzene](images/ab4.png)
+![Lmplot Tin Oxide](images/ab5.png)
+![Lmplot Tungsten Oxide](images/ab6.png)
 
-![Correlation](images/ab1.png)
-We can see that there is a strong and negative correlation between RH and T
 
-![PTO8_S3 vs T](images/ab2.png)
-We can see that there is a weak and negative correlation between PTO8_S3 and T
-
-![PTO8_S2 vs T](images/ab3.png)
-We can see that there is a weak and positive correlation between PTO8_S3 and T
-
-### Conclusion:
-We can not predict temperature by using metal oxides as no metal oxides show a strong correlation with Temperature (C). However, since Relative Humidity (%) is strongly and inversely related to Temperature. Relative Humidity can be a good predictor of temperature.
-
+ ### Conclusion
+ The top 3 air pollutants from our dataset that are correlated to temperature are Benzene, Tungsten oxide and Tin oxide
  
  ## Question 3 (Andrew): Is there a high enough concentration of non-metal pollutents to be dangerous to humans.
  
