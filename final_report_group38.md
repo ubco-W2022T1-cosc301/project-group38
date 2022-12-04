@@ -49,8 +49,12 @@ The Relative Humidity plots show us that Tin Oxide and Tungsten Oxide nominally 
 
 ## Question 2 (Abhiek): Which elements are highly correlated to temperature?
 
+Link to EDA: 
+[You can find the full analysis notebook here, including the code and the data here](https://github.com/ubco-W2022T1-cosc301/project-group38/blob/main/notebooks/analysis2(abhiek).ipynb)
+
+
 Observations:
-Most metal oxides are weakly correlated to temperature .
+There is no correlation between the amount of metal oxides detected and temperature.
 
 ![HeatMap](images/ab.png)
 This heat map allows us to easily see what variables strongly relate to Temperature
