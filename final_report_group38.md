@@ -4,6 +4,8 @@
 
 In this analysis, we will try to answer the questions we have had regarding the air quality data recorded in an Italian city. The data is primarily hourly responses from a sensor that will detect what pollutants are present in the air around said sensor. We are analyzing this dataset because we wonder whether the volume of different pollutents vary based on certain given factors like temperature and humidity. As well as whether there is enough of certain pollutents to be considered dangerous to humans outside in that area.  
 
+.
+
 ## Question (Jayden): Which metal oxides are present at various temperatures and humidities?
 
 Observations:
@@ -98,13 +100,25 @@ Over the course of the year, the mean values of each non-metal pollutent we're a
 - Mean concentration of NO2: 113.09 mg/m^3.
 - Mean concentration of CO: 2.15 mg/m^3.
 
+## EDA Highlights
+
+From question three, an interesting finding is the general concentration of Nitrogen dioxide (NO2) in the air on a given day. The mean value of NO2 per sensor read was 113 mg per cubic meter, and according to the CDC: "Human data: It has been reported that 10 to 20 ppm has been mildly irritating [Patty 1963]. Exposure to 150 ppm or more (no time period given) has been reported to cause death from pulmonary edema [NRC 1979]. It has been predicted that 50% lethality would occur following exposure to 174 ppm for 1 hour"<sup>[ reference ](https://www.cdc.gov/niosh/idlh/10102440.html)</sup>. 
+
+For conversions, when considering NO2:
+- 20 ppm = 37.636mg/m3
+- 174 ppm = 327.435mg/m3
+
+In question 3 we go on to explore when the concentration of NO2 is highest, as well as whether other non-metal pollutents have a high enough airborne concentration to be considered dangerous
+
 ### Q1: Is there a high enough concentration of these non-metal pollutents to be immediately dangerous to humans.
+
+
 
  ![violin](images/violin.png)
 
 Concentration of each non-metal particulate measured, relative to dangerous levels as described by the CDC. A value of 1 is equal to what is considered dangerous. As we can see the value of NO2 is both the most volatile and the only particle that was recorded at a dangerous level in this timeframe.
 
-### We see that NO2 shows the possibility of having a high enough concentration to be dangerous to humans, therefore we will focus on when and how often was the concentration dangerous.
+### Q2: We see that NO2 shows the possibility of having a high enough concentration to be dangerous to humans, therefore we will focus on when and how often was the concentration dangerous.
 
  ![irritatingNO2](images/dangLineGraph.png)
 
