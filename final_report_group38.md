@@ -49,7 +49,7 @@ The Relative Humidity plots show us that Tin Oxide and Tungsten Oxide nominally 
 
 ## Summary
 
-In summary, certain metal oxides are correlated to temperture, relative humidity, and absolute humidity. Metal oxides as a whole, do not have a correlation with temperature, relative humidity, or absolute humidity. Most metal oxides are detected below the average temperature of 17.965 degrees celcius. Tungsten Oxide and Tin Oxide  were the only metal oxides found to be below the average relative humidity of 48.775%. Tungsten Oxide detections also have a correlation with absolute humidity.
+In summary, certain metal oxides are correlated to temperture, relative humidity, and absolute humidity. Metal oxides as a whole, do not have a correlation with temperature, relative humidity, or absolute humidity. Most metal oxides are detected below the average temperature of 17.965 degrees celcius. Tungsten Oxide and Tin Oxide  were the only metal oxides found to be below the average relative humidity of 48.775%. Tungsten Oxide detections also have a correlation with absolute humidity. In regards to the dangers of Titanium Dioxide, since there is no increase in the detections of Titanium Dioxide there is no danger of the air becoming toxic.
 
 ### EDA Highlights
 
