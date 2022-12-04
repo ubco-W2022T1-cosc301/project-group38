@@ -108,7 +108,7 @@ For conversions, when considering NO2:
 - 20 ppm = 37.636mg/m3
 - 174 ppm = 327.435mg/m3
 
-In question 3 we go on to explore when the concentration of NO2 is highest, as well as whether other non-metal pollutents have a high enough airborne concentration to be considered dangerous
+In this question we go on to explore when the concentration of NO2 is highest, as well as whether other non-metal pollutents have a high enough airborne concentration to be considered dangerous
 
 ### Q1: Is there a high enough concentration of these non-metal pollutents to be immediately dangerous to humans.
 
