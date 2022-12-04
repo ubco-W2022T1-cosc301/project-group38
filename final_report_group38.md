@@ -1,8 +1,8 @@
-# Analysis
+# Analysis of Pollutants in the air over the course of a year.  
 
-## Preface
+## Introduction
 
-In this analysis, we will try to answer the questions we have had regarding our data by manipulating the data to be represented by various parameters and graphs.
+In this analysis, we will try to answer the questions we have had regarding the air quality data recorded in an Italian city. The data is primarily hourly responses from a sensor that will detect what pollutants are present in the air around said sensor. We are analyzing this dataset because we wonder whether the volume of different pollutents vary based on certain given factors like temperature and humidity. As well as whether there is enough of certain pollutents to be considered dangerous to humans outside in that area.  
 
 ## Question (Jayden): Which metal oxides are present at various temperatures and humidities?
 
